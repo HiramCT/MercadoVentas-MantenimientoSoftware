@@ -3,3 +3,4 @@ __pycache__/
 *.db
 .env
 extraido.txt
+ticket_*.txt

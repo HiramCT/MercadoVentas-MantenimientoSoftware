@@ -1,26 +1,0 @@
-Proyecto Final -- Mantenimiento de Software
-Objetivo General Aplicar los conocimientos adquiridos durante el semestre mediante el análisis, comprensión, modificación y mejora de un sistema existente utilizando Git y GitHub.
-Descripción del Proyecto La empresa ficticia MercadoVentas cuenta con un sistema desarrollado en Python para la gestión de usuarios, inventario y ventas. El sistema presenta problemas de mantenimiento, estructura y funcionalidad, además de no contar con documentación.
-Código y Base de datos Adjunto.
-Actividades a Realizar 1. Aplicar ingeniería inversa para comprender el sistema. 2. Separar el código en diferentes clases. 3. Mostrar símbolos en la contraseña al escribirla. 4. Corregir el registro de usuarios. 5. Agregar funcionalidad de pago y cálculo de cambio. 6. Generar ticket de compra en formato TXT. 7. Utilizar Git y GitHub durante todo el proyecto.
-Entregar documento PDF con las siguientes evidencias 1. Descripción del funcionamiento del Sistema de forma general pueden apoyarse
-de un diagrama. 2. Dificultades encontradas 3. Métodos utilizados para entender el código 4. Clasificación de cambios realizados: Correctivo, Preventivo, Perfectivo,
-Adaptativo 5. Capturas del sistema funcionando 6. Capturas de commits y ramas 7. Link del repositorio GITHub del Proyecto terminado 8. Conclusiones
-
-Rúbrica de Evaluación
-
-Criterio Ingeniería inversa
-Reestructuración
-Corrección de errores
-Nuevas funcionalidades Git y GitHub
-Documentación
-
-Descripción Comprensión y análisis del sistema Separación y mejora del código Corrección del registro de usuarios Pago/cambio y ticket TXT Uso correcto de commits y ramas PDF, evidencias y conclusiones
-
-Puntaje 15 pts
-20 pts
-15 pts
-20 pts 20 pts
-10 pts
-
-
